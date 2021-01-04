@@ -21,14 +21,14 @@ more can be added by changing the code
 [amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-nginx-proxy-manager.svg
+[commits-shield]: https://img.shields.io/github/commit-activity/y/remco1271/PlexEdit
 [commits]: https://github.com/remco1271/PlexEdit/commits/master
 [contributors]: https://github.com/remco1271/PlexEdit/graphs/contributors
 [i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [issue]: https://github.com/remco1271/PlexEdit/issues
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2020.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-experimental-yellow.svg
-[releases-shield]: https://img.shields.io/github/v/release/remco1271/PlexEdit.svg
+[releases-shield]: https://img.shields.io/github/v/release/remco1271/PlexEdit?include_prereleases
 [releases]: https://github.com/remco1271/PlexEdit/releases
 [repository]: https://github.com/remco1271/PlexEdit
 [docs]: https://github.com/hassio-addons/addon-nginx-proxy-manager/blob/master/proxy-manager/DOCS.md
